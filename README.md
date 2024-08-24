@@ -8,6 +8,10 @@ This is the reference PyTorch implementation for training and testing self-super
 
 which has been submitted to and is currently being considered for possible publication in **_IEEE Transactions on Intelligent Transportation Systems_** (T-ITS).
 
+<p align="center">
+  <img src="assets/demo.jpeg" alt="RGB vs. Depth" />
+</p>
+
 ## Setup
 
 Our experiments were conducted using PyTorch 1.8.2, CUDA 11.1, and Python 3.8 on Ubuntu 20.04. You can install the dependencies with the following scripts:
